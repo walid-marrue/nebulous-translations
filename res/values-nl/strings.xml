@@ -13,7 +13,7 @@
     <string name="Server_">"Server:"</string>
     <string name="Game_Mode_">"Spel Modus:"</string>
     <string name="Show_Names">"Namen Weergeven"</string>
-    <string name="Show_Avatars">"Skins Weergeven"</string>
+    <string name="Show_Avatars">"Uiterlijken Weergeven"</string>
     <string name="PLAY">"SPELEN"</string>
     <string name="OPTIONS">"OPTIES"</string>
 
@@ -152,7 +152,7 @@
     <string name="Dot_Gulper">"Dot Slikker"</string>
     <string name="Dot_Gobbler">"Dot Vreter"</string>
     <string name="Dot_Devourer">"Dot Verslinder"</string>
-    <string name="Dot_Gormandizer">"Dot Schranser"</string>
+    <string name="Dot_Gormandizer">"Dot Schranzer"</string>
     <string name="Dot_Sommelier">"Dot Sommelier"</string>
 
     <string name="Quadra_Gulp">"Quadra Gulp"</string>
@@ -171,7 +171,7 @@
     <string name="Blobocalypse">"Blobocalypse"</string>
 
     <string name="Experienced_Nebulator">"Ervaren Nebulator"</string>
-    <string name="Expert_Nebulator">"Deskundige Nebulator"</string>
+    <string name="Expert_Nebulator">"Expert Nebulator"</string>
     <string name="Master_Nebulator">"Meester Nebulator"</string>
     <string name="Grand_Master_Nebulator">"Grootmeester Nebulator"</string>
     <string name="Impossible">"Onmogelijk"</string>
@@ -320,7 +320,7 @@
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"Hartelijk dank aan elke Nebulous Fan"</string>
     <string name="Color_Blind">"Kleurenblind"</string>
     <string name="Daily_Quest_Complete_">"Dagelijkse Opdracht Voltooid!"</string>
-    <string name="COPY_ID">"KOPIEER ID"</string>
+    <string name="COPY_ID">"ID KOPIËREN"</string>
     <string name="My_Account_ID">"Mijn Account ID"</string>
 
 
@@ -384,7 +384,7 @@
     <string name="snowflakes_">"sneeuwvlokken."</string>
     <string name="presents_">"cadeaus."</string>
     <string name="Snowflake_Collector">"Sneeuwvlokken Verzamelaar"</string>
-    <string name="Present_Collector">"Cadeau Verzamelaar"</string>
+    <string name="Present_Collector">"Cadeauverzamelaar"</string>
 
 
     <string name="Season">"Seizoen"</string>
@@ -392,8 +392,8 @@
 
     <string name="Current">"Huidige"</string>
     <string name="leaves_">"bladeren."</string>
-    <string name="Leaf_Collector">"Blad Verzamelaar"</string>
-    <string name="Collect_1000_leaves_">"Verzamel 1.000 bladeren."</string>
+    <string name="Leaf_Collector">"Bladverzamelaar"</string>
+    <string name="Collect_1000_leaves_">"Verzamel 1000 bladeren."</string>
     <string name="XP_Boost">"XP Boost"</string>
     <string name="Double">"Dubbele"</string>
     <string name="Hour">"Uur"</string>
@@ -409,7 +409,7 @@
     <string name="Enter_the_Arena">"Arena Starten"</string>
 
 
-    <string name="Purchase_History">"Aankoop Geschiedenis"</string>
+    <string name="Purchase_History">"Aankoopgeschiedenis"</string>
 
     <string name="Purchases_Unavailable_">"Aankopen Niet Beschikbaar!"</string>
     <string name="You_can_purchase_this_skin_for">"Je kunt deze skin kopen voor"</string>
@@ -1253,9 +1253,9 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
     <string name="Plasma_Boost_1_Day_">Plasma Boost 1 dag!</string>
     <string name="Plasma_Boost_2_Hours_">Plasma Boost 2 uren.</string>
     <string name="Plasma_Boost">Plasma Boost</string>
-    <string name="particle_info">Je moet minimaal level 50 zijn en een basishuid met deeltjes gebruiken om eventuele deeltjes te kunnen zien.</string>
+    <string name="particle_info">Je moet minstens level 50 zijn en een basisuiterlijk met deeltjes gebruiken om de deeltjes te kunnen zien.</string>
     <string name="Plain_Score_Text">"gewone partituurtekst"</string>
-    <string name="Custom_Skin_Reviewed_Notification">Je aangepaste huid is beoordeeld!</string>
+    <string name="Custom_Skin_Reviewed_Notification">Je aangepaste uiterlijk is beoordeeld!</string>
     <string name="You_Have_Mail_">Je hebt post van %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Your Request To Join Clan %s Been Reviewed!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
@@ -1278,9 +1278,9 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
 Commands:
 !kick [0–31]
 !reset
-!welkom {bericht}
-!moeilijkheid [0-3] or [1-4] voor campaigne
-!verstopt
+!welcome {bericht}
+!difficulty [0-3] or [1-4] voor campagne
+!hidden
 !guests
 !slowchat
 !pausechat
@@ -1305,7 +1305,7 @@ Commands:
     <string name="Type">Typen</string>
     <string name="Complete_campaign_mission_">Voltooi Campaign missie</string>
     <string name="Specify_Reason_">Geef reden op:</string>
-    <string name="FREE_FOR_ALL">GRATIS VOOR IEDEREEN</string>
+    <string name="FREE_FOR_ALL">IEDEREEN VOOR ZICH</string>
     <string name="SPECIAL">SPECIAAL</string>
     <string name="FREE">GRATIS</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAG</string>
@@ -1331,7 +1331,7 @@ Commands:
     <string name="_2x_skin_resolution">2x Skin Resolutie</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Het account moet 1 dag oud zijn om e-mails te kunnen versturen.</string>
 
 
     <string-array name="control_modes">
